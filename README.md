@@ -3,7 +3,7 @@
 - 🎓 Graduating in Information Systems at UFVJM
 - 👨‍💻 Backend developer
 - 📚 Currently learning Django, Python and Java
-- 📫 eca.francisca@ufvjm.edu.br
+- 📫 eva.francisca@ufvjm.edu.br
 
 
 <div align="center">
