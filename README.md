@@ -1,7 +1,7 @@
 ### Hi, I'm Eva Francesca 🐝
 
 - 🎓 Graduating in Information Systems at UFVJM
-- 👨‍💻 Developer
+- 👩🏻‍💻 Developer
 - 📚 Currently learning Django, Python and Java
 - 📫 eva.francisca@ufvjm.edu.br
 
