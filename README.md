@@ -1,4 +1,4 @@
-### Hi, I'm Eva Francesca :wave:
+### Hi, I'm Eva Francesca 🐝
 
 - 🎓 Graduating in Information Systems at UFVJM
 - 👨‍💻 Backend developer
